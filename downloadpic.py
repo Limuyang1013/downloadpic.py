@@ -195,4 +195,4 @@ if __name__ == '__main__':
         account = input('请输入你的用户名\n>  ')
         secret = input("请输入你的密码\n>  ")
         login(secret, account)
-    change(offset=0, count=0, photoNum=10)
+    change(offset=0, count=0, photoNum=0)
